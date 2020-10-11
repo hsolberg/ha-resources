@@ -13,3 +13,4 @@ Lists of useful links to guides/how-to for HomeAssistant.
 
 ## ESPHome related
 * [ESP32 Cam w/face recognition](https://www.dopebuild.com/i-am-sorry-dave-i-am-unable-to-do-that/)
+* [ESP32 Cam, record camera feed](https://community.home-assistant.io/t/record-video-from-esp32-cam-config-with-esphome-in-hassio-works-great/153354) - Might be outdated and not working anymore.
