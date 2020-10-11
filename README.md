@@ -16,4 +16,4 @@ Lists of useful links to guides/how-to for HomeAssistant.
 * [ESP32 Cam, record camera feed](https://community.home-assistant.io/t/record-video-from-esp32-cam-config-with-esphome-in-hassio-works-great/153354) - Might be outdated and not working anymore.
 
 ## HomeAssistant setups
-* [HomeAssistant on k8s infrastructure](https://gandazgul.github.io/k8s-infrastructure/)
+* [HomeAssistant on k8s infrastructure](https://gandazgul.github.io/k8s-infrastructure/) - [GitHub repo](https://gandazgul.github.io/k8s-infrastructure/)
