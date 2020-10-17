@@ -17,3 +17,6 @@ Lists of useful links to guides/how-to for HomeAssistant.
 
 ## HomeAssistant setups
 * [HomeAssistant on k8s infrastructure](https://gandazgul.github.io/k8s-infrastructure/) - [GitHub repo](https://gandazgul.github.io/k8s-infrastructure/)
+
+## Custom Components
+* [Adaptive lighting](https://github.com/basnijholt/adaptive-lighting)
