@@ -21,3 +21,6 @@ Lists of useful links to guides/how-to for HomeAssistant.
 ## Custom Components
 * [Adaptive lighting](https://github.com/basnijholt/adaptive-lighting) - 
   * [Reddit discussion](https://www.reddit.com/r/homeassistant/comments/jabhso/ha_has_it_before_apple_has_even_finished_it_i/)
+
+## AndroidTV related
+* [Nvidia shield remote locator](https://www.reddit.com/r/homeassistant/comments/i50115/nvidia_shield_remote_locator/)
